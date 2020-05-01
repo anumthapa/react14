@@ -1,3 +1,8 @@
 import React from 'react';
 
-export default ({ name }) => <h1>Hello {name}!</h1>;
+export default ({ name, title }) =>
+ 
+ 
+ <h2>This {title}</h2>
+ 
+ ;
