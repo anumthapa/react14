@@ -57,7 +57,7 @@ class App extends Component {
           product.map(p=><Product key={p.id}{...p}/>)
         }
         </main>
-        <Footer/>
+       
       </div>
     );
   }
