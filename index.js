@@ -38,6 +38,12 @@ const product =[
     description:"",
     img:"https://ae01.alicdn.com/kf/HTB1RyrhdEz.BuNjt_j7q6x0nFXaC/COOLMIND-FU0117A-Summer-Design-Funny-Unlock-Men-T-shirt-Phone-Screen-Top-Tee-Shirts-100-Cotton.jpg",
     price:500.00
+  },{
+    id : 6,
+    name:"TShirt",
+    description:"",
+    img:"https://ae01.alicdn.com/kf/HTB1RyrhdEz.BuNjt_j7q6x0nFXaC/COOLMIND-FU0117A-Summer-Design-Funny-Unlock-Men-T-shirt-Phone-Screen-Top-Tee-Shirts-100-Cotton.jpg",
+    price:50.00
   }
 ]
 class App extends Component {
