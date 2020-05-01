@@ -10,7 +10,7 @@ const Nav =()=>{
   <nav className="bt bb tc mw7 center mt4">
     <a className="f6 f5-l link bg-animate black-80 hover-bg-lightest-blue dib pa3 ph4-l" href="/">Home</a>
     <a className="f6 f5-l link bg-animate black-80 hover-bg-light-yellow dib pa3 ph4-l" href="#">Contact</a>
-    <a className="f6 f5-l link bg-animate black-80 hover-bg-light-yellow dib pa3 ph4-l" href="/Cart">Cart</a>
+    <a className="f6 f5-l link bg-animate black-80 hover-bg-light-red dib pa3 ph4-1" href="/Cart">Cart</a>
   </nav>
 </header>      
      
